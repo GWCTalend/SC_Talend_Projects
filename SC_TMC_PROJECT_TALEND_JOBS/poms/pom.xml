@@ -10,6 +10,16 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/Summerclassics/buyer_0.1</module>
+    <module>jobs/process/Summerclassics/dim_area_0.1</module>
+    <module>jobs/process/Summerclassics/dim_branch_0.1</module>
+    <module>jobs/process/Summerclassics/dim_customer_0.1</module>
+    <module>jobs/process/Summerclassics/invmaster_0.1</module>
+    <module>jobs/process/Summerclassics/invoicedetail_0.1</module>
+    <module>jobs/process/Summerclassics/invoicesummary_0.1</module>
+    <module>jobs/process/Summerclassics/invprice_0.1</module>
+    <module>jobs/process/Summerclassics/partcategory_0.1</module>
+    <module>jobs/process/Summerclassics/producttype_0.1</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
   </modules>
   <properties>
