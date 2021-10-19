@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_w4G6oTCHEey_1Or78wYivA" label="SC_TMC_Project_Talend_Jobs" language="java" technicalLabel="SC_TMC_PROJECT_TALEND_JOBS" author="_w4G6ojCHEey_1Or78wYivA" productVersion="Talend Cloud Data Integration-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/GWCTalend/SC_Talend_Projects.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_w4G6oTCHEey_1Or78wYivA" label="SC_TMC_Project_Talend_Jobs" language="java" technicalLabel="SC_TMC_PROJECT_TALEND_JOBS" author="_w4G6ojCHEey_1Or78wYivA" productVersion="Talend Cloud Data Integration-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/GWCTalend/SC_Talend_Projects.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_w6pRQDCHEey_1Or78wYivA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_w4G6ojCHEey_1Or78wYivA" login="jarguedas@summerclassics.com" firstName="Johnny" lastName="Arguedas" type="DI"/>
