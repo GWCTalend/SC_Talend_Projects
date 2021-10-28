@@ -19,6 +19,7 @@
     <module>jobs/process/Summerclassics/invoicesummary_0.1</module>
     <module>jobs/process/Summerclassics/invprice_0.1</module>
     <module>jobs/process/Summerclassics/orderdetail_0.1</module>
+    <module>jobs/process/Summerclassics/ordermaster_0.1</module>
     <module>jobs/process/Summerclassics/partcategory_0.1</module>
     <module>jobs/process/Summerclassics/producttype_0.1</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
