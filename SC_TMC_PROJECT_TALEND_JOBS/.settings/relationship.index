@@ -4,31 +4,7 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_FSf34Cq5EeywLdLb1lqctg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  } ]
+  "relatedItems" : [ ]
 }, {
   "baseItem" : {
     "id" : "_8Af6QC3oEeyDZczbof1UUA",
@@ -80,31 +56,7 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_FSf34Cq5EeywLdLb1lqctg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  } ]
+  "relatedItems" : [ ]
 }, {
   "baseItem" : {
     "id" : "_NNEaMC95Eey1z58ZWg0UCA",
@@ -211,60 +163,12 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_FSf34Cq5EeywLdLb1lqctg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  } ]
+  "relatedItems" : [ ]
 }, {
   "baseItem" : {
     "id" : "_uz3rcC3pEeyDZczbof1UUA",
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_FSf34Cq5EeywLdLb1lqctg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  } ]
+  "relatedItems" : [ ]
 } ]
