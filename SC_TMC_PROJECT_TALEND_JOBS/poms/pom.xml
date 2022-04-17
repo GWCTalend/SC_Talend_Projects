@@ -29,6 +29,7 @@
     <module>jobs/process/Summerclassics/producttype_0.1</module>
     <module>jobs/process/Summerclassics/soradditions_0.1</module>
     <module>jobs/process/Summerclassics/sorcancelled_0.1</module>
+    <module>jobs/process/Summerclassics/sorchanges_0.1</module>
     <module>jobs/process/Summerclassics/stanfordreporting_0.1</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
   </modules>
