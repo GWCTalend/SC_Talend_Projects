@@ -17,6 +17,7 @@
     <module>jobs/process/Summerclassics/dim_branch_0.1</module>
     <module>jobs/process/Summerclassics/dim_customer_0.1</module>
     <module>jobs/process/Summerclassics/entitygoal_0.1</module>
+    <module>jobs/process/Summerclassics/history_backlog_branch_0.1</module>
     <module>jobs/process/Summerclassics/invmaster_0.1</module>
     <module>jobs/process/Summerclassics/invmaster_plus_0.1</module>
     <module>jobs/process/Summerclassics/invoicedetail_0.1</module>
