@@ -28,6 +28,7 @@
     <module>jobs/process/Summerclassics/orderdetail_0.1</module>
     <module>jobs/process/Summerclassics/ordermaster_0.1</module>
     <module>jobs/process/Summerclassics/partcategory_0.1</module>
+    <module>jobs/process/Summerclassics/productcategory_0.1</module>
     <module>jobs/process/Summerclassics/producttype_0.1</module>
     <module>jobs/process/Summerclassics/salsalesperson_plus_0.1</module>
     <module>jobs/process/Summerclassics/soradditions_0.1</module>
