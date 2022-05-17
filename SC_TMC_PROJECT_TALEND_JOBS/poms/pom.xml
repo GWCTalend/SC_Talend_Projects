@@ -10,6 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/Summerclassics/admform_0.1</module>
     <module>jobs/process/Summerclassics/buyer_0.1</module>
     <module>jobs/process/Summerclassics/buyer_test_0.1</module>
     <module>jobs/process/Summerclassics/calendar_0.1</module>
