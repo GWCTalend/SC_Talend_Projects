@@ -10,20 +10,12 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/Summerclassics/Summerclassics/container_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/lctcalc_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/lctcost_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/lctcostdet_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/lctcostreg_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/podetail_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/poheader_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/route_0.1</module>
-    <module>jobs/process/Summerclassics/Summerclassics/supplier_0.1</module>
     <module>jobs/process/Summerclassics/admform_0.1</module>
     <module>jobs/process/Summerclassics/backlog_branch_0.1</module>
     <module>jobs/process/Summerclassics/buyer_0.1</module>
     <module>jobs/process/Summerclassics/buyer_test_0.1</module>
     <module>jobs/process/Summerclassics/calendar_0.1</module>
+    <module>jobs/process/Summerclassics/container_0.1</module>
     <module>jobs/process/Summerclassics/copy_of_buyer_test_0.1</module>
     <module>jobs/process/Summerclassics/dim_area_0.1</module>
     <module>jobs/process/Summerclassics/dim_branch_0.1</module>
@@ -35,12 +27,19 @@
     <module>jobs/process/Summerclassics/invoicesummary_0.1</module>
     <module>jobs/process/Summerclassics/invprice_0.1</module>
     <module>jobs/process/Summerclassics/invwarehouse_0.1</module>
+    <module>jobs/process/Summerclassics/lctcalc_0.1</module>
+    <module>jobs/process/Summerclassics/lctcost_0.1</module>
+    <module>jobs/process/Summerclassics/lctcostdet_0.1</module>
+    <module>jobs/process/Summerclassics/lctcostreg_0.1</module>
     <module>jobs/process/Summerclassics/lookup_0.1</module>
     <module>jobs/process/Summerclassics/orderdetail_0.1</module>
     <module>jobs/process/Summerclassics/ordermaster_0.1</module>
     <module>jobs/process/Summerclassics/partcategory_0.1</module>
+    <module>jobs/process/Summerclassics/podetail_0.1</module>
+    <module>jobs/process/Summerclassics/poheader_0.1</module>
     <module>jobs/process/Summerclassics/productcategory_0.1</module>
     <module>jobs/process/Summerclassics/producttype_0.1</module>
+    <module>jobs/process/Summerclassics/route_0.1</module>
     <module>jobs/process/Summerclassics/salsalesperson_plus_0.1</module>
     <module>jobs/process/Summerclassics/soradditions_0.1</module>
     <module>jobs/process/Summerclassics/sorcancelled_0.1</module>
@@ -48,6 +47,7 @@
     <module>jobs/process/Summerclassics/sordetail_0.1</module>
     <module>jobs/process/Summerclassics/sormaster_0.1</module>
     <module>jobs/process/Summerclassics/stanfordreporting_0.1</module>
+    <module>jobs/process/Summerclassics/supplier_0.1</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
   </modules>
   <properties>
